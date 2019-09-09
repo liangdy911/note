@@ -1,5 +1,9 @@
 # note
 
+MySQL5.6编译安装（不用装boost）
+https://blog.csdn.net/lidonghat/article/details/73262926
+http://www.orczhou.com/index.php/2011/06/compile-and-install-mysql-5-5-from-source/
+
 MySQL5.7编译安装
 https://blog.csdn.net/uisoul/article/details/79020270
 
