@@ -17,4 +17,7 @@ IB的Windows编译
 https://blog.csdn.net/alpenglow_z/article/details/17557189
 
 相关论文:
-1. TPCH分析， https://homepages.cwi.nl/~boncz/snb-challenge/chokepoints-tpctc.pdf
+1. TPCH分析： https://homepages.cwi.nl/~boncz/snb-challenge/chokepoints-tpctc.pdf
+2. http://www.redbook.io/pdf/redbook-5th-edition.pdf
+3. cpu cache：https://jacksondunstan.com/articles/3860
+http://web.cecs.pdx.edu/~jrb/cs201/lectures/cache.friendly.code.pdf
