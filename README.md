@@ -15,3 +15,6 @@ https://github.com/dbcli/mycli
 
 IB的Windows编译
 https://blog.csdn.net/alpenglow_z/article/details/17557189
+
+相关论文:
+1. TPCH分析， https://homepages.cwi.nl/~boncz/snb-challenge/chokepoints-tpctc.pdf
