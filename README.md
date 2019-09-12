@@ -1,6 +1,6 @@
 # note
 
-MySQL5.6编译安装（不用装boost）
+MySQL5.5编译安装（不用装boost）
 https://blog.csdn.net/lidonghat/article/details/73262926
 http://www.orczhou.com/index.php/2011/06/compile-and-install-mysql-5-5-from-source/
 
