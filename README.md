@@ -21,3 +21,6 @@ https://blog.csdn.net/alpenglow_z/article/details/17557189
 2. http://www.redbook.io/pdf/redbook-5th-edition.pdf
 3. cpu cache：https://jacksondunstan.com/articles/3860
 http://web.cecs.pdx.edu/~jrb/cs201/lectures/cache.friendly.code.pdf
+
+其他论文：
+1. lock free b+ tree：https://github.com/runshenzhu/palmtree
