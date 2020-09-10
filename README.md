@@ -29,5 +29,7 @@ GridSQL
 https://www.cnblogs.com/gaojian/p/3267341.html
 
 https://github.com/snaga/stado
+
 http://databaser.net/moniwiki/pds/PostgreSQL/GridSQLPlanningGuide.PDF
+
 http://www.databaser.net/moniwiki/pds/PostgreSQL/GridSQLAdminGuide.PDF
